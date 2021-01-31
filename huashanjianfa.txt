@@ -5,3 +5,5 @@
 只有我才会葵花宝典！
 推送文件不需要再输入账号密码了！
 git push
+hot_fix
+hot_fix to master
